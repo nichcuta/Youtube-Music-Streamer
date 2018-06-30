@@ -19,13 +19,15 @@ pip install pyinstaller
 
 [pywin32](https://sourceforge.net/projects/pywin32/?source=navbar)
 
-#Precompiled Executable
+#### Compiling Command can be found in the "Compile Command.txt" file.
+
+# Precompiled Executable
 
 - [Windows portable version](https://mcastedu-my.sharepoint.com/:u:/g/personal/nicholas_cutajar_a100636_mcast_edu_mt/ERrh-mtch9xJjPSg1Rv3RE4BcMouxUeAfheMSFIdj2xqhw?e=Wa96Qb)
 
 # Configuration
 
-##player.config
+## player.config
 
 Edit the player.config file to choose an alternative player than MPV or set the default volume.
 
