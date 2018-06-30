@@ -19,6 +19,8 @@ pip install pyinstaller
 
 [pywin32](https://sourceforge.net/projects/pywin32/?source=navbar)
 
+[Youtube Music Streamer Compiling Resources](https://mcastedu-my.sharepoint.com/:u:/g/personal/nicholas_cutajar_a100636_mcast_edu_mt/Efk0lxrMsGNLqTEpZe9yNWQB6nZD5jUPYhXwjmI8Yq35lg?e=7ZgQIW), extract 7z file in the Youtube Music Streamer directory.
+
 #### Compiling Command can be found in the "Compile Command.txt" file.
 
 # Precompiled Executable
