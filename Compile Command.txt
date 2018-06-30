@@ -1,0 +1,1 @@
+pyinstaller --noconsole --icon=main_ico.ico --add-data "streamlink;streamlink" --add-data "mpvPlayer;mpvPlayer" --add-data "controlPlayer.bat;." --add-binary "controlPlayer.exe;." --add-data "player.config;." --add-data "url.config;." --add-data "main_ico.ico;." --add-data "mute_ico.ico;." "Youtube Streamer.py"
