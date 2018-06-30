@@ -1,6 +1,6 @@
 # Youtube Music Streamer
 
-Youtube Music Streamer is a Windows utility written in Python that provides live Youtube in a handy tray icon. The main purpose of this utility is to minimize CPU usage will still enjoying live music streams. Add multiple live streaming links and easily switch between livestreams.
+Youtube Music Streamer is a Windows utility written in Python that provides live Youtube in a handy tray icon. The main purpose of this utility is to minimize CPU usage will still enjoying live music streams. Add multiple live streaming links and easily switch between livestreams. Video Demonstration link below.
 
 ## Dependencies
 
