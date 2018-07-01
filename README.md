@@ -19,13 +19,13 @@ pip install pyinstaller
 
 [pywin32](https://sourceforge.net/projects/pywin32/?source=navbar)
 
-[Youtube Music Streamer Compiling Resources](https://mcastedu-my.sharepoint.com/:u:/g/personal/nicholas_cutajar_a100636_mcast_edu_mt/Efk0lxrMsGNLqTEpZe9yNWQB6nZD5jUPYhXwjmI8Yq35lg?e=7ZgQIW), extract 7z file in the Youtube Music Streamer directory.
+[Youtube Music Streamer Compiling Resources](https://bit.ly/2IFSlkT), extract 7z file in the Youtube Music Streamer directory.
 
 #### Compiling Command can be found in the "Compile Command.txt" file.
 
 # Precompiled Executable
 
-- [Windows portable version](https://mcastedu-my.sharepoint.com/:u:/g/personal/nicholas_cutajar_a100636_mcast_edu_mt/ERrh-mtch9xJjPSg1Rv3RE4BcMouxUeAfheMSFIdj2xqhw?e=Wa96Qb)
+- [Windows portable version](https://bit.ly/2z4R7Qm)
 
 # Configuration
 
@@ -37,5 +37,5 @@ Edit the player.config file to choose an alternative player than MPV or set the 
 
 Paste Youtube streams here to be able to easily select the stream later.
 
-# [Video Demonstration](https://youtu.be/3hgTONrW-y8)
+# [Video Demonstration](https://bit.ly/2Ky9d1U)
 
